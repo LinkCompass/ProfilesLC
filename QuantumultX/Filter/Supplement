@@ -4,8 +4,5 @@ HOST-SUFFIX,fast.com,Netflix
 # > JD Scripts by lxk0301
 HOST-SUFFIX,azureedge.net,Global
 
-# > Epic
-HOST-SUFFIX,epicgames.com,DIRECT
-
 # > Apple
 DOMAIN,www.icloud.com,DIRECT
