@@ -6,3 +6,20 @@ HOST-SUFFIX,azureedge.net,Global
 
 # > Apple
 DOMAIN,www.icloud.com,DIRECT
+
+# > Epic
+HOST-SUFFIX,battlebreakers.com,DIRECT
+HOST-SUFFIX,eac-cdn.com,DIRECT
+HOST-SUFFIX,easy.ac,DIRECT
+HOST-SUFFIX,easyanticheat.net,DIRECT
+HOST-SUFFIX,epicgames.com,DIRECT
+HOST-SUFFIX,fortnite.com,DIRECT
+HOST-SUFFIX,helpshift.com,DIRECT
+HOST-SUFFIX,paragon.com,DIRECT
+HOST-SUFFIX,playparagon.com,DIRECT
+HOST-SUFFIX,roborecall.com,DIRECT
+HOST-SUFFIX,shadowcomplex.com,DIRECT
+HOST-SUFFIX,spyjinx.com,DIRECT
+HOST-SUFFIX,unrealengine.com,DIRECT
+HOST-SUFFIX,unrealtournament.com,DIRECT
+HOST-KEYWORD,epicgames,DIRECT
