@@ -8,18 +8,18 @@ HOST-SUFFIX,azureedge.net,Global
 DOMAIN,www.icloud.com,DIRECT
 
 # > Epic
-HOST-SUFFIX,battlebreakers.com,DIRECT
-HOST-SUFFIX,eac-cdn.com,DIRECT
-HOST-SUFFIX,easy.ac,DIRECT
-HOST-SUFFIX,easyanticheat.net,DIRECT
-HOST-SUFFIX,epicgames.com,DIRECT
-HOST-SUFFIX,fortnite.com,DIRECT
-HOST-SUFFIX,helpshift.com,DIRECT
-HOST-SUFFIX,paragon.com,DIRECT
-HOST-SUFFIX,playparagon.com,DIRECT
-HOST-SUFFIX,roborecall.com,DIRECT
-HOST-SUFFIX,shadowcomplex.com,DIRECT
-HOST-SUFFIX,spyjinx.com,DIRECT
-HOST-SUFFIX,unrealengine.com,DIRECT
-HOST-SUFFIX,unrealtournament.com,DIRECT
-HOST-KEYWORD,epicgames,DIRECT
+HOST-SUFFIX,battlebreakers.com,Global
+HOST-SUFFIX,eac-cdn.com,Global
+HOST-SUFFIX,easy.ac,Global
+HOST-SUFFIX,easyanticheat.net,Global
+HOST-SUFFIX,epicgames.com,Global
+HOST-SUFFIX,fortnite.com,Global
+HOST-SUFFIX,helpshift.com,Global
+HOST-SUFFIX,paragon.com,Global
+HOST-SUFFIX,playparagon.com,Global
+HOST-SUFFIX,roborecall.com,Global
+HOST-SUFFIX,shadowcomplex.com,Global
+HOST-SUFFIX,spyjinx.com,Global
+HOST-SUFFIX,unrealengine.com,Global
+HOST-SUFFIX,unrealtournament.com,Global
+HOST-KEYWORD,epicgames,Global
