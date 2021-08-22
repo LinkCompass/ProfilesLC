@@ -23,3 +23,9 @@ HOST-SUFFIX,spyjinx.com,Global
 HOST-SUFFIX,unrealengine.com,Global
 HOST-SUFFIX,unrealtournament.com,Global
 HOST-KEYWORD,epicgames,Global
+
+# > Playstation
+HOST-SUFFIX,playstation.com,Global
+HOST-SUFFIX,playstation.net,Global
+HOST-SUFFIX,playstationnetwork.com,Global
+HOST-SUFFIX,sonyentertainmentnetwork.com,Global
